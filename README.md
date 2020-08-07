@@ -1,6 +1,6 @@
 macOS Catalina 10.15.6 on ASUS P5Q-WS motherboard with Core2Quad Q9650 CPU
 
-Preparation process: DSDT.aml was taken from Clover boot-loader with F4. All errors were fixed with MaciASL 1.5.6/1.5.7. No patches were applied. Just clean DSDT.aml Some warning remained, like:
+Preparation process: DSDT.aml was taken from Clover boot-loader with F4. All errors were fixed with MaciASL 1.5.6/1.5.7. No patches were applied. Just clean DSDT.aml Some warnings remained, like:
 
 25, 3168, Legacy Processor() keyword detected. Use Device() keyword instead.
 
